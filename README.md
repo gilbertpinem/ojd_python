@@ -1,4 +1,4 @@
-<h1>Pothole Object Detecction<h1>
+<h1>Pothole Object Detection<h1>
 <h2>Results</h2>
 <h3>Confusion Matrix</h3>
 <img width="3000" height="2250" alt="confusion_matrix" src="https://github.com/user-attachments/assets/b55f5fd2-7b69-43a5-adbe-ad218436d6b8" />
